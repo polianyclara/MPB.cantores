@@ -26,3 +26,17 @@ h2{
    font-size: 50px;
    color: blueviolet;
 }
+.cabecalho{
+    background-color: rgb(216, 186, 236);
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 250px;
+}
+.item_lista_cabecalho{ 
+color: rgb(168, 130, 238);
+list-style: none;
+text-transform: uppercase;
+font-size: 80px;
+padding: 20px;
+}
