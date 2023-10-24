@@ -1,0 +1,18 @@
+titulo{
+    text-emphasis: one;
+    color: rgb(0, 0, 0);
+}
+img{
+    width: 40%;
+    margin-left: 5%;
+} 
+p{
+    text-align-last: left;
+    font-size: 60px;
+    color: rgb(50, 0, 73);
+}
+h2{
+    text-align: left;
+    font-size: 50px;
+    color:black
+}

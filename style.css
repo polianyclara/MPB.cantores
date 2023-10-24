@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(216, 186, 236);
+    background-color: rgb(223, 175, 255);
 }
 img{
     width: 50%;
@@ -9,12 +9,12 @@ img{
 h1{
     text-align: center;
     font-size: 60px;
-    color: black;
+    color: rgb(53, 4, 54);
 }
 p{
     text-align: center;
     font-size: 50px;
-    color: black;
+    color: rgb(74, 0, 109);
 }
 ul{
     text-align: center;
@@ -26,17 +26,18 @@ h2{
    font-size: 50px;
    color: blueviolet;
 }
-.cabecalho{
-    background-color: rgb(216, 186, 236);
+cabecalho{
+    background-color: rgb(255, 133, 249);
 }
-.lista_cabecalho{
+lista_cabecalho{
+    background-color: fuchsia;
     display: flex;
-    margin-left: 250px;
+    margin-left: 50px;
 }
-.item_lista_cabecalho{ 
-color: rgb(168, 130, 238);
-list-style: none;
+item_lista_cabecalho{  
+list-style: two;
 text-transform: uppercase;
 font-size: 80px;
-padding: 20px;
+padding: 10px;
+margin-left: 5px;
 }
